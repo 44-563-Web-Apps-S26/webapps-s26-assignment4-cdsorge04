@@ -43,3 +43,25 @@
 .song {
     letter-spacing: 1px;
 }
+.cast {
+    border-collapse: collapse;
+    width: 70%;
+    margin: 30px auto;
+    font-family: Arial, sans-serif;
+}
+
+.cast th, .cast td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.cast th {
+    background-color: #444;
+    color: white;
+}
+.cast tr:nth-child(even) {
+    background-color: #eeeeee;
+}
+.cast tr:nth-child(odd) {
+    background-color: #ffffff;
+}
