@@ -65,3 +65,9 @@
 .cast tr:nth-child(odd) {
     background-color: #ffffff;
 }
+.fairies {
+    color: green;
+}
+.queen { color: brown; }
+.fleta { color: maroon;}
+.willis {color: blue}
