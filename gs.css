@@ -1,0 +1,45 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.song {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    margin-left: 40px;
+    font-style: italic;
+}
+
+.direction {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #f2f2f2;
+}
+
+/* Hover for directions */
+.direction:hover {
+    background-color: #cccccc;
+    color: black;
+}
+
+.name {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: black;
+}
+.celia { color: darkblue; }
+.lordmount { color: darkgreen; }
+.lordtoll { color: darkred; }
+.leila { color: purple; }
+.chorus {
+    color: teal;
+}
+.speech {
+    font-style: normal;
+}
+
+.song {
+    letter-spacing: 1px;
+}
